@@ -1,0 +1,14 @@
+/Users/gunessumre/RiderProjects/UmreGunes/Inheritance/Inheritance/bin/Debug/net9.0/Inheritance
+/Users/gunessumre/RiderProjects/UmreGunes/Inheritance/Inheritance/bin/Debug/net9.0/Inheritance.deps.json
+/Users/gunessumre/RiderProjects/UmreGunes/Inheritance/Inheritance/bin/Debug/net9.0/Inheritance.runtimeconfig.json
+/Users/gunessumre/RiderProjects/UmreGunes/Inheritance/Inheritance/bin/Debug/net9.0/Inheritance.dll
+/Users/gunessumre/RiderProjects/UmreGunes/Inheritance/Inheritance/bin/Debug/net9.0/Inheritance.pdb
+/Users/gunessumre/RiderProjects/UmreGunes/Inheritance/Inheritance/obj/Debug/net9.0/Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gunessumre/RiderProjects/UmreGunes/Inheritance/Inheritance/obj/Debug/net9.0/Inheritance.AssemblyInfoInputs.cache
+/Users/gunessumre/RiderProjects/UmreGunes/Inheritance/Inheritance/obj/Debug/net9.0/Inheritance.AssemblyInfo.cs
+/Users/gunessumre/RiderProjects/UmreGunes/Inheritance/Inheritance/obj/Debug/net9.0/Inheritance.csproj.CoreCompileInputs.cache
+/Users/gunessumre/RiderProjects/UmreGunes/Inheritance/Inheritance/obj/Debug/net9.0/Inheritance.dll
+/Users/gunessumre/RiderProjects/UmreGunes/Inheritance/Inheritance/obj/Debug/net9.0/refint/Inheritance.dll
+/Users/gunessumre/RiderProjects/UmreGunes/Inheritance/Inheritance/obj/Debug/net9.0/Inheritance.pdb
+/Users/gunessumre/RiderProjects/UmreGunes/Inheritance/Inheritance/obj/Debug/net9.0/Inheritance.genruntimeconfig.cache
+/Users/gunessumre/RiderProjects/UmreGunes/Inheritance/Inheritance/obj/Debug/net9.0/ref/Inheritance.dll
